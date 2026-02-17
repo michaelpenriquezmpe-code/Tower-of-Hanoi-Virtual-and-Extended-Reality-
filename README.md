@@ -28,6 +28,7 @@ The application runs in modern browsers with WebXR support and can be experience
 ## 📂 Repository Structure
 
 tower-of-hanoi-xr/
+
 ├── index.html          # Main XR application  
 ├── FullReport_TowerofHanoi.pdf   # Full academic/project report  
 ├── README.md  
